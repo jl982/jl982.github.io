@@ -22,16 +22,18 @@ set hlsearch    " highlight all search results
 set ignorecase  " do case insensitive search 
 set incsearch   " show incremental search results as you type
 set number      " display line number
-set noswapfile  " disable swapfile
+set noswapfile  " disable swap file
 ```
 
 For what it's worth, the acronym for the 5 lines is `HIINN`.
 
-Edit: [Multiple people on HN](https://news.ycombinator.com/item?id=25410751){:target="_blank"} [pointed out](https://news.ycombinator.com/item?id=25410742){:target="_blank"} that the 5 lines can be combined into a single line like below. I didn't know about this capability, but will definitely start doing this from now on.
+**Edit**: [Multiple people on HN](https://news.ycombinator.com/item?id=25410751){:target="_blank"} [have pointed out](https://news.ycombinator.com/item?id=25410742){:target="_blank"} that the 5 lines can be combined into a single line like below. I didn't know about this capability, but will definitely start doing this from now on:
 
 ```
 set hls ic is nu noswf
 ```
+
+Also, as mentioned below, this is for temporary environments where you read more than you edit. For your local set up, it's better to take the time to properly maintain the config file and install plugins as needed.
 
 ## Motivation
 [Vim](https://www.vim.org/){:target="_blank"} is a powerful text editor for Unix/Linux, and I use it frequently to view and edit files. Unfortunately, Vim's default configurations lack several important usability features compared to popular alternative text editors, such as [VSCode](https://code.visualstudio.com/){:target="_blank"}.
