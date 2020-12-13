@@ -7,13 +7,13 @@ tags: vim software
 ## TL;DR
 To make a default Vim installation more useful, type the following 5 lines into its `.vimrc` file:
 
-~~~
+```
 set hls
 set ic
 set is
 set nu
 set noswf
-~~~
+```
 
 Or if you prefer, copy and paste the spelled out and annotated version:
 
@@ -26,6 +26,12 @@ set noswapfile  " disable swapfile
 ```
 
 For what it's worth, the acronym for the 5 lines is `HIINN`.
+
+Edit: [Multiple people on HN](https://news.ycombinator.com/item?id=25410751){:target="_blank"} [pointed out](https://news.ycombinator.com/item?id=25410742){:target="_blank"} that the 5 lines can be combined into a single line like below. I didn't know about this capability, but will definitely start doing this from now on.
+
+```
+set hls ic is nu noswf
+```
 
 ## Motivation
 [Vim](https://www.vim.org/){:target="_blank"} is a powerful text editor for Unix/Linux, and I use it frequently to view and edit files. Unfortunately, Vim's default configurations lack several important usability features compared to popular alternative text editors, such as [VSCode](https://code.visualstudio.com/){:target="_blank"}.
