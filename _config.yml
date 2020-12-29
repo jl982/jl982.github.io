@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Musings on software and some other things
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: G-37PHX8NGGC
 
 sitemap: true
 future: true
