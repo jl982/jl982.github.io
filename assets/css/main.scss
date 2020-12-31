@@ -5,6 +5,14 @@
 $base-font-family: "Noto Sans Light", AppleSDGothicNeo-Regular, "Malgun Gothic", Helvetica, Arial, Oswald, sans-serif;
 $base-font-size: 16px;
 
+figcaption {
+  text-align: center;
+}
+
+video {
+  width: 100%;
+}
+
 // Default theme colors
 $theme-colors: (
   coolblack: #090a0b,
