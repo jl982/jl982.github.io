@@ -4,6 +4,11 @@
 
 $base-font-family: "Noto Sans Light", AppleSDGothicNeo-Regular, "Malgun Gothic", Helvetica, Arial, Oswald, sans-serif;
 $base-font-size: 16px;
+@font-face {
+  font-family: 'Noto Sans Light';
+  src: local('Arial');
+  unicode-range: U+2026;
+}
 
 figcaption {
   text-align: center;
