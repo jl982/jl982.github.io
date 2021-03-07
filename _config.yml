@@ -30,6 +30,7 @@ night_mode: "off"
 header_pages:
   - index.md
   - tags.html
+  - talks.md
   - about.md
 
 # Build settings
