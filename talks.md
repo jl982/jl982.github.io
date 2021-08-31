@@ -4,6 +4,10 @@ title: Talks
 permalink: /talks
 ---
 
+# 2021
+- [Optimizing the Catalyst Optimizer for Complex Plans](https://databricks.com/session_na21/optimizing-the-catalyst-optimizer-for-complex-plans){:target="_blank"}  
+Talk @ Data + AI Summit 2021
+
 # 2020
 - [On Improving Broadcast Joins in Apache Spark SQL](https://databricks.com/session_na20/on-improving-broadcast-joins-in-apache-spark-sql){:target="_blank"}  
 Talk @ Spark + AI Summit 2020
