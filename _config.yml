@@ -16,7 +16,7 @@
 title: Sword and Signals
 #email: your-email@example.com
 author: Jianneng Li
-copyright: Copyright 2021
+copyright: Copyright 2024
 description: >- # this means to ignore newlines until "baseurl:"
   Musings on software and some other things
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -35,7 +35,7 @@ header_pages:
 
 # Build settings
 markdown: kramdown
-remote_theme: jeffreytse/jekyll-theme-yat
+remote_theme: jeffreytse/jekyll-theme-yat@v1.8.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
