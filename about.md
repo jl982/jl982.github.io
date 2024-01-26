@@ -8,9 +8,9 @@ permalink: /about
 ![](jianneng.png)
 {:refdef}
 
-Hello, my name is [Jianneng](https://www.linkedin.com/in/jianneng-li-9970571b/){:target="_blank"}. I am currently a co-founder at [Navvable](https://navvable.com/){:target="_blank"} in Northern California, building modern workflow software for immigration law firms.
+Hello, my name is [Jianneng](https://www.linkedin.com/in/jianneng-li-9970571b/){:target="_blank"}. I am currently a co-founder at [Knowmatic](https://www.knowmatic.app/){:target="_blank"}, a tool that lets you write help center-style articles for software products by simply recording narrated screencasts.
 
-Previously, I was a Software Engineer at [Workday](https://www.workday.com/){:target="_blank"}. My work there focused on distributed systems and data processing, specifically using Apache Spark, Hadoop, as well as JVM-based languages and libraries.
+Previously, I was a co-founder at Navvable, building modern workflow software for immigration law firms. Before that, I was a Software Engineer at [Workday](https://www.workday.com/){:target="_blank"}, where I worked on distributed systems and data processing, specifically using Apache Spark, Hadoop, as well as JVM-based languages and libraries.
 
 I was born in Harbin, China, where I grew up and finished elementary school. Then I moved to Toronto, Canada, and stayed there until the end of high school. Next, I went to Cornell University in the east coast of US for undergrad, before coming to UC Berkeley in the west coast for master's. It can be a bit of a struggle when people ask me where I'm from.
 
