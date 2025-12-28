@@ -8,7 +8,7 @@ permalink: /about
 ![](jianneng.png)
 {:refdef}
 
-Hello, my name is [Jianneng](https://www.linkedin.com/in/jianneng-li-9970571b/){:target="_blank"}. I am currently a co-founder at [Knowmatic](https://www.knowmatic.app/){:target="_blank"}, a tool that lets you write help center-style articles for software products by simply recording narrated screencasts.
+Hello, my name is [Jianneng](https://www.linkedin.com/in/jianneng-li-9970571b/){:target="_blank"}. I am a startup founder in the vertical software space.
 
 Previously, I was a co-founder at Navvable, building modern workflow software for immigration law firms. Before that, I was a Software Engineer at [Workday](https://www.workday.com/){:target="_blank"}, where I worked on distributed systems and data processing, specifically using Apache Spark, Hadoop, as well as JVM-based languages and libraries.
 
