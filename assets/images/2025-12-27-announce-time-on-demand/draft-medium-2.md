@@ -20,8 +20,6 @@ I wanted a way to get the time **on demand**, ideally without opening my eyes:
 
 My first thought was: this sounds like an iOS Shortcuts thing. So I asked ChatGPT.
 
-Full transcript: [transcript]({{ site.baseurl }}{% link transcript.md %})
-
 ## iPhone: announce time with the Action Button
 The Shortcut itself is straightforward (no code required):
 

@@ -17,6 +17,10 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 207", group: :jekyll_plugins
 
+# Fixes nokogiri build failures on newer macOS/arm64 toolchains while staying
+# within github-pages' allowed nokogiri range (< 2.0).
+gem "nokogiri", ">= 1.15", "< 2.0"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.9"
@@ -26,4 +30,3 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-spaceship"
 end
-
